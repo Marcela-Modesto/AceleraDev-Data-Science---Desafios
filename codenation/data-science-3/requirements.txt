@@ -32,7 +32,7 @@ mkl-service==2.3.0
 more-itertools==8.4.0
 nbconvert==5.5.0
 nbformat==4.4.0
-notebook==5.7.8
+notebook==6.1.5
 numpy==1.18.5
 packaging==20.4
 pandas @ file:///C:/ci/pandas_1592841747005/work
